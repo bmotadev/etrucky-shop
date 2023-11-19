@@ -1,3 +1,4 @@
+import 'package:etrucky/components/my_drawer.dart';
 import 'package:flutter/material.dart';
 
 class ShopPage extends StatelessWidget {
@@ -12,7 +13,7 @@ class ShopPage extends StatelessWidget {
         foregroundColor: Theme.of(context).colorScheme.inversePrimary,
         title: Text("Caminhões"),
       ),
-      drawer: Drawer(),
+      drawer: MyDrawer(),
     );
   }
 }
