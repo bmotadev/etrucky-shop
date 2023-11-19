@@ -1,3 +1,4 @@
+import 'package:etrucky/pages/cart_page.dart';
 import 'package:etrucky/pages/shop_page.dart';
 import 'package:etrucky/themes/light_mode.dart';
 import 'package:flutter/material.dart';
@@ -20,6 +21,7 @@ class MyApp extends StatelessWidget {
       routes: {
         '/intro_page': (context) => const IntroPage(),
         '/shop_page': (context) => const ShopPage(),
+        '/cart_page': (context) => const CartPage(),
       },
     );
   }
