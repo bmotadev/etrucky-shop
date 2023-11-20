@@ -10,7 +10,7 @@
 
 ---
 
-### Funcionalidades
+### ➡️ Funcionalidades
 
 - Adicionar veículos ao Carrinho
 - Remover veículos do Carrinho
