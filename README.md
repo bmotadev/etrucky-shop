@@ -1,16 +1,24 @@
-# etrucky
+<h1 align="center">🚚 eTrucky - Seu caminhão novo está aqui!</h1>
+<p align="center">eTrucky é um aplicativo de compra e venda de caminhões, feito em Flutter. Onde o objetivo deste aplicativo, foi aprender mais sobre Flutter e seus widgets.</p>
 
-A new Flutter project.
+---
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+### 📱 Telas
 
-A few resources to get you started if this is your first Flutter project:
+<p align="center"><img src="https://github.com/bmotadev/etrucky-shop/blob/main/assets/tela_inicial.jpg" width="200"> <img src="https://github.com/bmotadev/etrucky-shop/blob/main/assets/tela_veiculos.jpg" width="200"> <img src="https://github.com/bmotadev/etrucky-shop/blob/main/assets/tela_menu.jpg" width="200"> <img src="https://github.com/bmotadev/etrucky-shop/blob/main/assets/tela_carrinho.jpg" width="200"></p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Funcionalidades
+
+- Adicionar veículos ao Carrinho
+- Remover veículos do Carrinho
+- Navegar entre o carrinho e outros veículos através de botão ou menu
+- Realizar o pagamento quando conectado ao backend
+
+---
+
+### 👨‍💻 Author
+
+<a href="https://www.linkedin.com/in/bmotadev/"><img src="https://avatars.githubusercontent.com/u/123843027?v=4" width="96"><p>Bruno Mota</p></a>
