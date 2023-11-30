@@ -1,5 +1,7 @@
 <h1 align="center">🚚 eTrucky - Seu caminhão novo está aqui!</h1>
 <p align="center">eTrucky é um aplicativo de compra e venda de caminhões, feito em Flutter. Onde o objetivo deste aplicativo, foi aprender mais sobre Flutter e seus widgets.</p>
+<p align="center"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></p>
+
 
 ---
 
